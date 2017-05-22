@@ -1,0 +1,17 @@
+{
+  "name": "gmail-notifier",
+  "version": "1.0.0",
+  "description": "notifier for you electronic mails",
+  "main": "quickstart.js",
+  "dependencies": {
+    "google-auth-library": "^0.10.0",
+    "googleapis": "^19.0.0",
+    "node-notifier": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "piano-man",
+  "license": "ISC"
+}
